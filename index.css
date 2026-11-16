@@ -3,4 +3,10 @@
 body{background-image: linear-gradient(rgb(82, 205, 41), blue)};
 div {background-color: aliceblue;}
 main {color: aliceblue; background-color: black;}
-
+main h1 {text-align: center;}
+main ol {text-align: left;}
+#Comida {color: yellow;}
+#agua {color: aqua;}
+#Abrigo {color: yellow;}
+#Atenção {color: aqua;}
+#Entretenimento {color: yellow;}
