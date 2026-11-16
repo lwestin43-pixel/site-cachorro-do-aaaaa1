@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{background-image: linear-gradient(rgb(82, 205, 41), blue)};
-div {background-color: aliceblue;}
+div {background-color: aliceblue; margin: auto;}
 main {color: aliceblue; background-color: black;}
 main h1 {text-align: center;}
 main ol {text-align: left;}
@@ -10,4 +10,4 @@ main ol {text-align: left;}
 #Abrigo {color: yellow;}
 #Atenção {color: aqua;}
 #Entretenimento {color: yellow;}
-#cachorrinho {margin: auto;}
+#cachorrinho {display: flex; justify-content: center; align-items: center; margin: auto;}
