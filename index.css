@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
 body{background-image: linear-gradient(rgb(82, 205, 41), blue)};
-
+div {background-color: aliceblue;}
+main {color: aliceblue; background-color: black;}
 
